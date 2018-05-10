@@ -1,0 +1,34 @@
+@font-face {
+    font-family: "fz-pangtyjt";
+    src: url("./pangty.woff2") format("woff2"); 
+}
+@font-face {
+    font-family: "fzyh-bz";
+    src: url("./fzyh_bz.woff2") format("woff2"); 
+}
+@font-face {
+    font-family: "fzltkh-gbk";
+    src: url("./fzltkh_GBK.woff2") format("woff2"); 
+}
+@font-face {
+    font-family: "fzyh-zc";
+    src: url("./fzltzh_jt.woff2") format("woff2"); 
+}
+
+img { max-width: 100%;}
+
+body {
+  margin: 0px;
+  padding: 0px;
+  background-color: #000000;
+}
+img { max-width: 100%;}
+
+.app-index-custom {
+    background-color: #FFF!important;
+    border:0px!important;
+    border-radius:0px!important;
+    overflow: visible;
+    display: list-item!important;
+    line-height:normal;
+}
